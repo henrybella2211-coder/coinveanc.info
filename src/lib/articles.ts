@@ -55,6 +55,32 @@ export const ARTICLES: ArticleMeta[] = [
     imageAlt: "Several different pod-system vape kits of varying sizes arranged together for comparison",
     specBadges: ["£10-£35 typical", "350-900mAh", "Beginner friendly"],
   },
+  {
+    slug: "pod-system-battery-capacity-mah-explained",
+    title: "Pod system battery capacity explained: mAh and what it means for you",
+    excerpt:
+      "What the mAh figure on a pod system actually measures, how to turn it into a rough idea of runtime between charges, and why a bigger battery isn't automatically the right choice.",
+    category: "Basics",
+    readTime: "8 min read",
+    lastUpdated: "2026-09-14",
+    lastUpdatedDisplay: "14 September 2026",
+    image: "/images/pod-device-battery-capacity.jpg",
+    imageAlt: "A purple and pink pod-system vape device standing upright on a reflective surface, showing its integrated display",
+    specBadges: ["350-1500mAh range", "USB-C charging", "Runtime varies"],
+  },
+  {
+    slug: "single-coil-vs-dual-coil-pod-systems",
+    title: "Single-coil vs dual-coil pod systems: what's the difference?",
+    excerpt:
+      "How pods built around one coil compare with pods that use two working together, and what that tends to mean for vapour, flavour and how quickly you get through battery and e-liquid.",
+    category: "Comparisons",
+    readTime: "8 min read",
+    lastUpdated: "2026-09-17",
+    lastUpdatedDisplay: "17 September 2026",
+    image: "/images/pod-systems-single-vs-dual-coil.jpg",
+    imageAlt: "Two pod-system vape devices in different colourways, one standing and one lying flat, positioned together for comparison",
+    specBadges: ["1 or 2 coils", "MTL vs looser draw", "Consumption varies"],
+  },
 ];
 
 export function getArticleBySlug(slug: string) {

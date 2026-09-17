@@ -48,6 +48,14 @@ export default function Page() {
           for most users, at the cost of a bulkier device.
         </li>
       </ul>
+      <p>
+        For more on what the mAh figure actually measures and how to turn it into a rough sense of
+        real-world runtime, see our{" "}
+        <Link href="/guides/pod-system-battery-capacity-mah-explained">
+          guide to pod-system battery capacity and mAh
+        </Link>
+        .
+      </p>
 
       <h2>2. Pod capacity</h2>
       <p>
@@ -64,6 +72,11 @@ export default function Page() {
         supports a mouth-to-lung style draw. Before buying, it is worth checking:
       </p>
       <ul>
+        <li>Whether the pod uses a single coil or a dual-coil setup; our{" "}
+          <Link href="/guides/single-coil-vs-dual-coil-pod-systems">
+            single-coil vs dual-coil comparison
+          </Link>{" "}
+          covers how this affects vapour, flavour and running cost.</li>
         <li>Whether replacement coils (or replacement pods, on closed systems) are stocked by
           UK retailers, not just available from the manufacturer abroad.</li>
         <li>Roughly how often a coil needs replacing with regular use, usually every one to two

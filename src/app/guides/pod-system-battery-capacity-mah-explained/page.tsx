@@ -161,7 +161,12 @@ export default function Page() {
         expect to use it, rather than treating mAh as a single score to maximise. Our{" "}
         <Link href="/guides/what-is-a-pod-system">guide to what a pod system actually is</Link>{" "}
         covers the wider spec sheet, including pod capacity and coil resistance, if you are starting
-        your comparison from scratch.
+        your comparison from scratch. For a worked example at the larger end of the mAh scale, see
+        how a 1000mAh closed pod kit stacks up in{" "}
+        <Link href="/guides/al-fakher-hypermax-prime-50k">
+          our breakdown of the Al Fakher HyperMax Prime 50K
+        </Link>
+        .
       </p>
     </ArticleLayout>
   );

@@ -69,6 +69,19 @@ export const ARTICLES: ArticleMeta[] = [
     specBadges: ["350-1500mAh range", "USB-C charging", "Runtime varies"],
   },
   {
+    slug: "al-fakher-hypermax-prime-50k",
+    title: "Al Fakher HyperMax Prime 50K: where it fits in the pod system category",
+    excerpt:
+      "A closed, prefilled pod kit built around a coil-and-pod \"Snap Dual\" module. Here's how it maps onto the refillable-vs-replaceable split and typical pod-system battery bands.",
+    category: "Buying Guides",
+    readTime: "8 min read",
+    lastUpdated: "2026-09-18",
+    lastUpdatedDisplay: "18 September 2026",
+    image: "/images/pod-vape-pen-devices-flatlay.jpg",
+    imageAlt: "Several slim, pen-shaped rechargeable pod vape devices arranged in a diagonal pattern on a dark surface",
+    specBadges: ["1000mAh battery", "Snap Dual pods", "USB-C charging"],
+  },
+  {
     slug: "single-coil-vs-dual-coil-pod-systems",
     title: "Single-coil vs dual-coil pod systems: what's the difference?",
     excerpt:
